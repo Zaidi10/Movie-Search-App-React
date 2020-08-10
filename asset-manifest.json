@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Movie-Search-App-React/static/css/main.b0acebd6.chunk.css",
+    "main.js": "/Movie-Search-App-React/static/js/main.f8ad0b0f.chunk.js",
+    "main.js.map": "/Movie-Search-App-React/static/js/main.f8ad0b0f.chunk.js.map",
+    "runtime-main.js": "/Movie-Search-App-React/static/js/runtime-main.c92e3b74.js",
+    "runtime-main.js.map": "/Movie-Search-App-React/static/js/runtime-main.c92e3b74.js.map",
+    "static/css/2.eb6b8b82.chunk.css": "/Movie-Search-App-React/static/css/2.eb6b8b82.chunk.css",
+    "static/js/2.bb3fec74.chunk.js": "/Movie-Search-App-React/static/js/2.bb3fec74.chunk.js",
+    "static/js/2.bb3fec74.chunk.js.map": "/Movie-Search-App-React/static/js/2.bb3fec74.chunk.js.map",
+    "index.html": "/Movie-Search-App-React/index.html",
+    "precache-manifest.7f9c8dd3d32cc1e7cc7c534bdd1587bc.js": "/Movie-Search-App-React/precache-manifest.7f9c8dd3d32cc1e7cc7c534bdd1587bc.js",
+    "service-worker.js": "/Movie-Search-App-React/service-worker.js",
+    "static/css/2.eb6b8b82.chunk.css.map": "/Movie-Search-App-React/static/css/2.eb6b8b82.chunk.css.map",
+    "static/css/main.b0acebd6.chunk.css.map": "/Movie-Search-App-React/static/css/main.b0acebd6.chunk.css.map",
+    "static/js/2.bb3fec74.chunk.js.LICENSE.txt": "/Movie-Search-App-React/static/js/2.bb3fec74.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Movie-Search-App-React/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/notifications.css": "/Movie-Search-App-React/static/media/notification.c0d3c94c.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c92e3b74.js",
+    "static/css/2.eb6b8b82.chunk.css",
+    "static/js/2.bb3fec74.chunk.js",
+    "static/css/main.b0acebd6.chunk.css",
+    "static/js/main.f8ad0b0f.chunk.js"
+  ]
+}
