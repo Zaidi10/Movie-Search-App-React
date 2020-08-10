@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/Movie-Search-App-React/static/css/main.b0acebd6.chunk.css",
-    "main.js": "/Movie-Search-App-React/static/js/main.ba8ba460.chunk.js",
-    "main.js.map": "/Movie-Search-App-React/static/js/main.ba8ba460.chunk.js.map",
+    "main.js": "/Movie-Search-App-React/static/js/main.620c7d76.chunk.js",
+    "main.js.map": "/Movie-Search-App-React/static/js/main.620c7d76.chunk.js.map",
     "runtime-main.js": "/Movie-Search-App-React/static/js/runtime-main.c92e3b74.js",
     "runtime-main.js.map": "/Movie-Search-App-React/static/js/runtime-main.c92e3b74.js.map",
     "static/css/2.eb6b8b82.chunk.css": "/Movie-Search-App-React/static/css/2.eb6b8b82.chunk.css",
-    "static/js/2.bb3fec74.chunk.js": "/Movie-Search-App-React/static/js/2.bb3fec74.chunk.js",
-    "static/js/2.bb3fec74.chunk.js.map": "/Movie-Search-App-React/static/js/2.bb3fec74.chunk.js.map",
+    "static/js/2.3183cecc.chunk.js": "/Movie-Search-App-React/static/js/2.3183cecc.chunk.js",
+    "static/js/2.3183cecc.chunk.js.map": "/Movie-Search-App-React/static/js/2.3183cecc.chunk.js.map",
     "index.html": "/Movie-Search-App-React/index.html",
-    "precache-manifest.8357faeb0245912f1bc62431dbfeb997.js": "/Movie-Search-App-React/precache-manifest.8357faeb0245912f1bc62431dbfeb997.js",
+    "precache-manifest.64bdd8b43588fd7ecacf8aea5466417b.js": "/Movie-Search-App-React/precache-manifest.64bdd8b43588fd7ecacf8aea5466417b.js",
     "service-worker.js": "/Movie-Search-App-React/service-worker.js",
     "static/css/2.eb6b8b82.chunk.css.map": "/Movie-Search-App-React/static/css/2.eb6b8b82.chunk.css.map",
     "static/css/main.b0acebd6.chunk.css.map": "/Movie-Search-App-React/static/css/main.b0acebd6.chunk.css.map",
-    "static/js/2.bb3fec74.chunk.js.LICENSE.txt": "/Movie-Search-App-React/static/js/2.bb3fec74.chunk.js.LICENSE.txt",
+    "static/js/2.3183cecc.chunk.js.LICENSE.txt": "/Movie-Search-App-React/static/js/2.3183cecc.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/Movie-Search-App-React/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/notifications.css": "/Movie-Search-App-React/static/media/notification.c0d3c94c.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.c92e3b74.js",
     "static/css/2.eb6b8b82.chunk.css",
-    "static/js/2.bb3fec74.chunk.js",
+    "static/js/2.3183cecc.chunk.js",
     "static/css/main.b0acebd6.chunk.css",
-    "static/js/main.ba8ba460.chunk.js"
+    "static/js/main.620c7d76.chunk.js"
   ]
 }
